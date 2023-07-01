@@ -1,5 +1,8 @@
 {
  "type": "module",
+ "scripts": {
+  "start": "node index.js"
+},
   "dependencies": {
     "bcrypt": "^5.1.0",
     "colors": "^1.4.0",
